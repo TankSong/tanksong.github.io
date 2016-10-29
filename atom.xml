@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>TankSong&#39;s</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://tanksong.github.io/"/>
   <updated>2016-10-29T07:01:49.381Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://tanksong.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>TankSong</name>
     
   </author>
   
@@ -17,13 +17,13 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2016/10/29/hello-world/"/>
-    <id>http://yoursite.com/2016/10/29/hello-world/</id>
+    <link href="https://tanksong.github.io/2016/10/29/hello-world/"/>
+    <id>https://tanksong.github.io/2016/10/29/hello-world/</id>
     <published>2016-10-29T05:13:58.948Z</published>
     <updated>2016-10-29T07:01:49.381Z</updated>
     
     <content type="html"><![CDATA[<hr>
-<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/" target="_blank" rel="external">TankSong</a>的Blog！</p>
+<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/">TankSong</a>的Blog！</p>
 <h3 id="Information"><a href="#Information" class="headerlink" title="Information"></a>Information</h3><blockquote>
 <p>本条记录是我的第一条记录——一个全新的开始！<br>如果你在使用中有任何问题，请直接在留言里指出，我将以最快的速度与您取得联系。<br>再次感谢你对我的关注！</p>
 </blockquote>
@@ -32,7 +32,7 @@
     <summary type="html">
     
       &lt;hr&gt;
-&lt;h2 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://tanksong.github.io/&quot; target=&quot;_blank&quot; rel=&quot;
+&lt;h2 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://tanksong.github.io/&quot;&gt;TankSong&lt;/a&gt;的Blog！&lt;/p
     
     </summary>
     
