@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tanksong.github.io/"/>
-  <updated>2016-10-29T08:14:30.918Z</updated>
+  <updated>2016-10-30T05:02:39.046Z</updated>
   <id>https://tanksong.github.io/</id>
   
   <author>
@@ -17,10 +17,33 @@
   
   <entry>
     <title></title>
+    <link href="https://tanksong.github.io/2016/10/30/A-New-Day-A-New-World/"/>
+    <id>https://tanksong.github.io/2016/10/30/A-New-Day-A-New-World/</id>
+    <published>2016-10-30T05:02:16.003Z</published>
+    <updated>2016-10-30T05:02:39.046Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/">TankSong</a>的Blog！</p>
+<h3 id="Information"><a href="#Information" class="headerlink" title="Information"></a>Information</h3><blockquote>
+<p>本条记录是我的第一条记录——一个全新的开始！<br>如果你在使用中有任何问题，请直接在留言里指出，我将以最快的速度与您取得联系。<br>再次感谢你对我的关注！</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://tanksong.github.io/&quot;&gt;TankSong&lt;/a&gt;的Blog！&lt;/p&gt;
+&lt;h3
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="https://tanksong.github.io/2016/10/29/hello-world/"/>
     <id>https://tanksong.github.io/2016/10/29/hello-world/</id>
     <published>2016-10-29T05:13:58.948Z</published>
-    <updated>2016-10-29T08:14:30.918Z</updated>
+    <updated>2016-10-30T04:49:55.910Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/">TankSong</a>的Blog！</p>
 <h3 id="Information"><a href="#Information" class="headerlink" title="Information"></a>Information</h3><blockquote>
