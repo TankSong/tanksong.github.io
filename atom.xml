@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tanksong.github.io/"/>
-  <updated>2016-11-09T07:29:54.057Z</updated>
+  <updated>2016-11-09T08:20:52.814Z</updated>
   <id>https://tanksong.github.io/</id>
   
   <author>
@@ -16,32 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>One draft</title>
-    <link href="https://tanksong.github.io/2016/11/09/One-Draft/"/>
-    <id>https://tanksong.github.io/2016/11/09/One-Draft/</id>
-    <published>2016-11-09T07:29:54.000Z</published>
-    <updated>2016-11-09T07:29:54.057Z</updated>
-    
-    <content type="html"><![CDATA[<p>This is a draft test only. <a id="more"></a><br>No more, thank you for your attention.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This is a draft test only.
-    
-    </summary>
-    
-    
-      <category term="draft" scheme="https://tanksong.github.io/tags/draft/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Design for Boundary-Scan Test</title>
     <link href="https://tanksong.github.io/2016/11/03/Design%20for%20Boundary-Scan%20Test/"/>
     <id>https://tanksong.github.io/2016/11/03/Design for Boundary-Scan Test/</id>
     <published>2016-11-03T09:11:13.851Z</published>
-    <updated>2016-11-09T07:01:01.068Z</updated>
+    <updated>2016-11-09T08:20:52.814Z</updated>
     
     <content type="html"><![CDATA[<p>Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.<a id="more"></a></p>
 ]]></content>
@@ -64,9 +43,9 @@
     <link href="https://tanksong.github.io/2016/10/30/A-New-Day-A-New-World/"/>
     <id>https://tanksong.github.io/2016/10/30/A-New-Day-A-New-World/</id>
     <published>2016-10-30T05:02:16.003Z</published>
-    <updated>2016-10-30T06:07:44.343Z</updated>
+    <updated>2016-11-09T08:20:47.720Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/">TankSong</a>的Blog！<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<h2 id="Hi"><a href="#Hi" class="headerlink" title="Hi!"></a>Hi!</h2><p>欢迎来到<a href="https://tanksong.github.io/">TankSong</a>的Blog！ <a id="more"></a></p>
 <h3 id="Information"><a href="#Information" class="headerlink" title="Information"></a>Information</h3><blockquote>
 <p>本条记录是我的第一条记录,一个全新的开始！<br>如果你在使用中有任何问题，请直接在留言里指出，我将以最快的速度与你取得联系。<br>再次感谢你对我的关注！</p>
 </blockquote>
@@ -74,7 +53,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://tanksong.github.io/&quot;&gt;TankSong&lt;/a&gt;的Blog！&lt;br&gt;
+      &lt;h2 id=&quot;Hi&quot;&gt;&lt;a href=&quot;#Hi&quot; class=&quot;headerlink&quot; title=&quot;Hi!&quot;&gt;&lt;/a&gt;Hi!&lt;/h2&gt;&lt;p&gt;欢迎来到&lt;a href=&quot;https://tanksong.github.io/&quot;&gt;TankSong&lt;/a&gt;的Blog！
     
     </summary>
     
