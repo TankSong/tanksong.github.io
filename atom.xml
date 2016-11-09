@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tanksong.github.io/"/>
-  <updated>2016-10-30T06:07:44.343Z</updated>
+  <updated>2016-11-09T07:29:54.057Z</updated>
   <id>https://tanksong.github.io/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>One draft</title>
+    <link href="https://tanksong.github.io/2016/11/09/One-Draft/"/>
+    <id>https://tanksong.github.io/2016/11/09/One-Draft/</id>
+    <published>2016-11-09T07:29:54.000Z</published>
+    <updated>2016-11-09T07:29:54.057Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a draft test only. <a id="more"></a><br>No more, thank you for your attention.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This is a draft test only.
+    
+    </summary>
+    
+    
+      <category term="draft" scheme="https://tanksong.github.io/tags/draft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Design for Boundary-Scan Test</title>
+    <link href="https://tanksong.github.io/2016/11/03/Design%20for%20Boundary-Scan%20Test/"/>
+    <id>https://tanksong.github.io/2016/11/03/Design for Boundary-Scan Test/</id>
+    <published>2016-11-03T09:11:13.851Z</published>
+    <updated>2016-11-09T07:01:01.068Z</updated>
+    
+    <content type="html"><![CDATA[<p>Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.<a id="more"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.
+    
+    </summary>
+    
+    
+      <category term="Boundary-Scan" scheme="https://tanksong.github.io/tags/Boundary-Scan/"/>
+    
+      <category term="Testing" scheme="https://tanksong.github.io/tags/Testing/"/>
+    
+  </entry>
   
   <entry>
     <title>A New Day, A New World!</title>
