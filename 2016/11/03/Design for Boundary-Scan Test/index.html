@@ -90,7 +90,7 @@
 <meta property="og:url" content="https://tanksong.github.io/2016/11/03/Design for Boundary-Scan Test/index.html">
 <meta property="og:site_name" content="TankSong's Blog">
 <meta property="og:description" content="Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.">
-<meta property="og:updated_time" content="2016-11-09T09:13:31.296Z">
+<meta property="og:updated_time" content="2016-11-10T02:29:02.030Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Design for Boundary-Scan Test">
 <meta name="twitter:description" content="Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.">
@@ -280,6 +280,14 @@
 
       
         <p>Design for Testability(DFT) is a subject covering a huge amount material. Without DFT, a VLSI component might not be economical to produce in volume.<a id="more"></a></p>
+<p>Although the word “Test” is embedded in “DFT”, it should not be. DFT should be qualified by the type of testing anticipated. For example, there should be Design for In-Circuit Testing and Design for Edge-Connector Functional Testing and Design for Integrated Circuit Testing and so on. The type of testing to be done greatly influences your DFT decisions. For example, many In-Circuit testing DFT rules are mechanical in nature, to facilitate In-Circuit probing. These are irrelevant for edge-connector testing. We need to consider DFT as “DFxT” where “x” is the target test technology.</p>
+<p>Boundary-Scan is primarily targeted at board level manufacturing faults–the havoc of the production process–affecting digital components. These include, in rough order of prevalence:</p>
+<ul>
+<li>solder defects creating opens(too little solder).</li>
+<li>solder defects creating shorts(too much solder).</li>
+<li>misloaded components, including wrong or missing components.</li>
+<li>dead components or components with electrical damage to input or output buffers.</li>
+</ul>
 
       
     </div>
@@ -374,7 +382,7 @@
                src="/images/BigHead.png"
                alt="TankSong" />
           <p class="site-author-name" itemprop="name">TankSong</p>
-          <p class="site-description motion-element" itemprop="description">Just Do It.</p>
+          <p class="site-description motion-element" itemprop="description">有你有我，无忧无虑</p>
         </div>
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
